@@ -1,0 +1,4 @@
+beaconTester
+============
+
+test Qualcomm chips
